@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\interfaces\\iweatherbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:interfaces\\iweatherbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\models\\enums\\weatherbots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:models\\enums\\weatherbots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\models\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:models\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\botconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:botconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\services\\bots\\rainbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:services\\bots\\rainbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\weathermonitoring.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:weathermonitoring.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\services\\bots\\sunbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:services\\bots\\sunbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\services\\bots\\snowbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:services\\bots\\snowbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|c:\\users\\zbook\\source\\repos\\weathermonitoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E657BA-86B5-4C3B-AAC5-842F08EE4E99}|WeatherMonitoring.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IWeatherBot.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Interfaces\\IWeatherBot.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IWeatherBot.cs",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Interfaces\\IWeatherBot.cs",
+              "RelativeToolTip": "Interfaces\\IWeatherBot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:23:28.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "botconfig.json",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\botconfig.json",
+              "RelativeDocumentMoniker": "botconfig.json",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\botconfig.json",
+              "RelativeToolTip": "botconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T04:20:40.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SunBot.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Services\\Bots\\SunBot.cs",
+              "RelativeDocumentMoniker": "Services\\Bots\\SunBot.cs",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Services\\Bots\\SunBot.cs",
+              "RelativeToolTip": "Services\\Bots\\SunBot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:19:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RainBot.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Services\\Bots\\RainBot.cs",
+              "RelativeDocumentMoniker": "Services\\Bots\\RainBot.cs",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Services\\Bots\\RainBot.cs",
+              "RelativeToolTip": "Services\\Bots\\RainBot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:19:12.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Models\\WeatherData.cs",
+              "RelativeToolTip": "Models\\WeatherData.cs",
+              "ViewState": "AQIAAAQAAACIzMzMzMwnwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:18:38.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BotConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Models\\BotConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\BotConfiguration.cs",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Models\\BotConfiguration.cs",
+              "RelativeToolTip": "Models\\BotConfiguration.cs",
+              "ViewState": "AQIAAAIAAAAAMTMzMzP7vwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:18:28.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherBots.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Models\\Enums\\WeatherBots.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\WeatherBots.cs",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Models\\Enums\\WeatherBots.cs",
+              "RelativeToolTip": "Models\\Enums\\WeatherBots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:17:19.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SnowBot.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Services\\Bots\\SnowBot.cs",
+              "RelativeDocumentMoniker": "Services\\Bots\\SnowBot.cs",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Services\\Bots\\SnowBot.cs",
+              "RelativeToolTip": "Services\\Bots\\SnowBot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:19:26.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherMonitoring",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\WeatherMonitoring.csproj",
+              "RelativeDocumentMoniker": "WeatherMonitoring.csproj",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\WeatherMonitoring.csproj",
+              "RelativeToolTip": "WeatherMonitoring.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T04:14:29.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK\\source\\repos\\WeatherMonitoring\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:13:18.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
