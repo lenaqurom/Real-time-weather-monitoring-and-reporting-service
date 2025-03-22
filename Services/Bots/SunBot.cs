@@ -20,7 +20,7 @@ namespace WeatherMonitoring.Services.Bots
         }
         public void Activate(WeatherData data)
         {
-            if (data.Temperature < _threshold)
+            if (data.Temperature > _threshold)
             {
                 Console.WriteLine("SunBot activated");
                 Console.WriteLine(_message);
