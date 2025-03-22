@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace WeatherMonitoring.Interfaces
 {
-    internal interface IWeatherBot
+    public interface IWeatherService
     {
+        void ProcessWeatherData(string inputData, IWeatherDataParser Convert);
     }
 }
