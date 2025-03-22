@@ -1,0 +1,17 @@
+{
+  "RainBot": {
+    "Enabled": true,
+    "Threshold": 30,
+    "Message": "It's going to rain!"
+  },
+  "SunBot": {
+    "Enabled": true,
+    "Threshold": 35,
+    "Message": "It's a hot sunny day!"
+  },
+  "SnowBot": {
+    "Enabled": true,
+    "Threshold": 0,
+    "Message": "It's going to snow!"
+  }
+}
