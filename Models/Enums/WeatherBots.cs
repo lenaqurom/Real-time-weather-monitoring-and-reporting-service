@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WeatherService.Models.Enums
+namespace WeatherMonitoring.Models.Enums
 {
     public enum WeatherBots
     {
